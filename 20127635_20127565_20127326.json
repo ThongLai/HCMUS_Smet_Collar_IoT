@@ -1,0 +1,21 @@
+[
+    {
+        "id": "ee3f34d02fbf501a",
+        "type": "function",
+        "z": "6ad90b287d39a9c0",
+        "name": "",
+        "func": "flow.set(\"longitude\",msg.payload)\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 920,
+        "y": 1260,
+        "wires": [
+            [
+                "43bd190c6bf07657"
+            ]
+        ]
+    }
+]
